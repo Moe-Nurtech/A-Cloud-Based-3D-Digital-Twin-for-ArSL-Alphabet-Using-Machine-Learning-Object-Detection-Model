@@ -28,7 +28,7 @@ yarn build # Build for productions
 Then open your browser and visit: <br>
 http://localhost:5173/yolov5-tfjs/
 
-## Model
+## Animated 3D Model
 
 [LINK](https://sketchfab.com/3d-models/3d-model-with-the-arabic-sign-language-alphabet-9e1274aa409a48818633c55ab209326d)
 
